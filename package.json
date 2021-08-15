@@ -1,0 +1,7 @@
+{
+    "name": "leak-guard-bot",
+    "dependencies": {
+      "jimp": "^0.16.1",
+      "telegraf": "^4.4.1"
+    }
+}
